@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Template/static/css/main.4cb344a1.css",
-    "main.js": "/React-Template/static/js/main.2ec909cd.js",
+    "main.css": "/React-Template/static/css/main.3ec83f64.css",
+    "main.js": "/React-Template/static/js/main.9eca2223.js",
     "static/media/video2.mp4": "/React-Template/static/media/video2.dccb45b33221101723b1.mp4",
     "static/media/video1.mp4": "/React-Template/static/media/video1.c57aaad094fcda3e06fe.mp4",
     "static/media/code.jpg": "/React-Template/static/media/code.fea6cf7433b105d6e874.jpg",
@@ -12,11 +12,11 @@
     "static/media/user5.jpg": "/React-Template/static/media/user5.921947eccae648403fd7.jpg",
     "static/media/user4.jpg": "/React-Template/static/media/user4.b3a5b044617d336fd8f2.jpg",
     "index.html": "/React-Template/index.html",
-    "main.4cb344a1.css.map": "/React-Template/static/css/main.4cb344a1.css.map",
-    "main.2ec909cd.js.map": "/React-Template/static/js/main.2ec909cd.js.map"
+    "main.3ec83f64.css.map": "/React-Template/static/css/main.3ec83f64.css.map",
+    "main.9eca2223.js.map": "/React-Template/static/js/main.9eca2223.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cb344a1.css",
-    "static/js/main.2ec909cd.js"
+    "static/css/main.3ec83f64.css",
+    "static/js/main.9eca2223.js"
   ]
 }
